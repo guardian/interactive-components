@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guardian/interactive-components/issues"
   },
-  "homepage": "https://github.com/guardian/interactive-components#readme"
+  "homepage": "https://github.com/guardian/interactive-components#readme",
+  "dependencies": {
+    "interactive-components": "github:guardian/interactive-components"
+  }
 }
